@@ -1,4 +1,4 @@
-# Arquitectura de DJANGO 
+# Arquitectura de Django
 - Patron MTV (Model-Template-View)
 
 # 
